@@ -2,11 +2,11 @@
 
 $data = array(
           // Merchant details
-          'merchant_id' => '10003430',
-          'merchant_key' => 'iq7lgyjhybn5o',
-          'return_url' => 'http://www.vmpa.me/payfast/return.php',
-          'cancel_url' => 'http://www.vmpa.me/payfast/return.php',
-          'notify_url' => 'http://www.vmpa.me/payfast/return.php',
+          'merchant_id' => '0000',
+          'merchant_key' => '0000',
+          'return_url' => 'return.php',
+          'cancel_url' => 'return.php',
+          'notify_url' => 'return.php',
 	          'name_first' => 'First Name',
 	          'name_last'  => 'Last Name',
 	          'email_address'=> 'sbtu01@payfast.co.za',
