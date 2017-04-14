@@ -2,8 +2,8 @@
 
 $data = array(
           // Merchant details
-          'merchant_id' => '0000',
-          'merchant_key' => '0000',
+          'merchant_id' => '10003462',
+          'merchant_key' => '5zkpzohxqfdm9',
           'return_url' => 'return.php',
           'cancel_url' => 'return.php',
           'notify_url' => 'return.php',
